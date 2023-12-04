@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\bin\Debug\net6.0\irodhan.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\bin\Debug\net6.0\irodhan.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\bin\Debug\net6.0\irodhan.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\bin\Debug\net6.0\irodhan.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\bin\Debug\net6.0\irodhan.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\irodhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\irodhan.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\irodhan.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\irodhan.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\irodhan.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\refint\irodhan.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\irodhan.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\irodhan.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\irodhan\obj\Debug\net6.0\ref\irodhan.dll
